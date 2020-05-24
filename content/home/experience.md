@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Incoming Software Engineer Intern"
   company = "Alibaba"
-  company_url = "https://talent.alibaba.com/"
+  company_url = "https://www.alibabagroup.com/en/global/home"
   location = "Hangzhou, China"
   date_start = "2020-09-01"
   date_end = ""
