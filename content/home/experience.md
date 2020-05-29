@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   date_start = "2020-05-25"
   date_end = ""
   description = """
-  AICS is a newly formed software division in ASUS with a mission to help businesses solve their most challenging problems with AI technology.
+  * Currently working on solving the Python Flask multi-processing deadlock problem when handling with GPU
   """
 [[experience]]
   title = "Software Engineer Intern"
@@ -59,6 +59,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-01"
   date_end = ""
   description = """
+  * Currently working on cloud orchestration project, devloping micro-services using Java Spring framework.
   """
 
 [[experience]]
