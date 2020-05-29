@@ -22,7 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Cloud Service
-- Computer Vision
+- Back-End Web Development
 - Artificial Intelligence
 
 education:
@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-My name is Kuan Wei Yu. I am a first-year Master's student at New York University. I earned my Bachelor's degree in Physcis at National Taiwan University in 2018. I am an incoming software engineer intern at Alibaba. I am currently working at [ASUS Intelligent Cloud Services - AICS](https://aics.asus.com/) as an AI engineer intern. Previously, I was a software engineer intern at NYU IT, developing the Business Intelligent application, such as the ETL processing, database maintaining, web development, etc.
+My name is Kuan Wei Yu. I am a first-year Master's student at New York University, studying Computer Eningeering. I earned my Bachelor's degree in Physcis at National Taiwan University in 2018. I am an incoming software engineer intern at Alibaba Java R&D team. I am currently working at [ASUS Intelligent Cloud Services - AICS](https://aics.asus.com/) as an AI engineer intern, developing the Kubernetes cloud deployment project. Previously, I was a software engineer intern at NYU IT. I developed some Business Intelligent applications, such as the ETL processing, database maintaining, web development, etc.
