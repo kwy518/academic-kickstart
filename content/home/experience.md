@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2020-09-01"
   date_end = ""
   description = """
-
+  * Will join Java R&D team
   """
 [[experience]]
   title = "Software Engineer Intern"
@@ -50,6 +50,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   * Currently working on solving the Python Flask multi-processing deadlock problem when handling with GPU
+  * Deploying the python flask application on Kubernetes using munikube
   """
 [[experience]]
   title = "Software Engineer Intern"
