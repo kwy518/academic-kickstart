@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2020-09-01"
   date_end = ""
   description = """
-  * Will join Java R&D team
+  * Will join the Java R&D team
   """
 [[experience]]
   title = "Software Engineer Intern"
@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-01"
   date_end = ""
   description = """
-  * Currently working on cloud orchestration project, devloping micro-services using Java Spring framework.
+  * Currently working on cloud orchestration project, developing micro-services using Java Spring framework.
   """
 
 [[experience]]
