@@ -50,7 +50,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   * Currently working on solving the Python Flask multi-processing deadlock problem when handling with GPU
-  * Deploying the python flask application on Kubernetes using munikube
+  * Currently working on enhancing the GPU utilization of the AI application on Kubernetes
+  * Deployed the python flask application on Kubernetes using munikube
   """
 [[experience]]
   title = "Software Engineer Intern"
