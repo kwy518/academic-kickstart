@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: kwy232@nyu.edu # For a direct email link, use "mailto:test@example.org".
+  link: mailto:kwy232@nyu.edu # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/kwy518
@@ -69,4 +69,4 @@ Hi there! I'm Kuan Wei Yu, a software engineer who is currently pursuing a Maste
 
 This fall, I will be interning at Alibaba Java R&D team as a Software Engineer Intern. I am currently working at [ASUS Intelligent Cloud Services](https://aics.asus.com/), developing the Kubernetes cloud deployment project. Previously, I was a Software Engineer Intern at NYU IT. I developed several Business Intelligent applications, such as ETL processing, database maintaining, web development, etc. 
 
-I am actively looking for Full-Time Software Engineer positions, if you have any opportunity, feel free to contact me through my [Email](kwy232@nyu.edu) or [LinkedIn](https://www.linkedin.com/in/kuanweiyu/). Thank you all.
+I am actively looking for Full-Time Software Engineer positions, if you have any opportunity, feel free to contact me through my [Email](mailto:kwy232@nyu.edu) or [LinkedIn](https://www.linkedin.com/in/kuanweiyu/). Thank you all.
