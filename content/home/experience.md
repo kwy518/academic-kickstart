@@ -36,9 +36,9 @@ date_format = "Jan 2006"
   date_start = "2020-01-01"
   date_end = "2020-05-23"
   description = """
-  * Developed ETL processing, maintained the database from a variety of data sources, utilized Python to deploy multithreaded data processing algorithms on AWS EC2
-  * Created Web Crawler, parsed HTML by Python to scrape daily reports from NYU online server and developed the real-time report updated system with Google Drive API
-  * Developed NYU IT website by Python Flask, designed front-end with Bootstrap package, created back-end functions such as search engine, login system, and automatically updated system, deployed the whole flask application on AWS Lambda
+  * Developed ETL processing, maintained the database from a variety of data sources, utilized **Python** to deploy multithreaded data processing algorithms on **AWS EC2**
+  * Created Web Crawler, parsed HTML by **Python** to scrape daily reports from NYU online server and developed the real-time report updated system with Google Drive API
+  * Developed NYU IT website by **Python Flask**, designed front-end with Bootstrap package, created back-end functions such as search engine, login system, and automatically updated system, deployed the whole flask application on **AWS Lambda**
   """
 
 [[experience]]
@@ -49,9 +49,9 @@ date_format = "Jan 2006"
   date_start = "2020-05-25"
   date_end = ""
   description = """
-  * Currently working on solving the Python Flask multi-processing deadlock problem when handling with GPU
-  * Currently working on enhancing the GPU utilization of the AI application on Kubernetes
-  * Deployed the python flask application on Kubernetes using munikube
+  * Currently working on solving the **Python Flask** multi-processing deadlock problem when handling with GPU
+  * Currently working on enhancing the GPU utilization of the AI application on **Kubernetes**
+  * Deployed the **Python flask** application on **Kubernetes** using munikube
   """
 [[experience]]
   title = "Software Engineer Intern"
@@ -61,7 +61,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-01"
   date_end = ""
   description = """
-  * Currently working on cloud orchestration project, developing micro-services using Java Spring framework.
+  * Currently working on cloud orchestration project, developing micro-services using **Java Spring** framework.
   """
 
 [[experience]]
@@ -74,7 +74,7 @@ date_format = "Jan 2006"
   description = """
   Topic: The impact of background noise to the Neutrino detector
   * Built the simulation environments on Geant4 (C++) and simulated the penetration of cosmic rays by the observational data
-  * Plotted the data collected by simulation, analyzed the results, and calculated the distribution of particles by Python
+  * Plotted the data collected by simulation, analyzed the results, and calculated the distribution of particles by **Python**
   * Implemented a novel algorithm and improved on the simulation process, thus reduced 33% of running time, improved 20% of accuracy on recording simulation results and distinguished the repeatedly recorded data
   """
 
