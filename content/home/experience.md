@@ -53,16 +53,6 @@ date_format = "Jan 2006"
   * Currently working on enhancing the GPU utilization of the AI application on **Kubernetes**
   * Deployed the **Python flask** application on **Kubernetes** using munikube
   """
-[[experience]]
-  title = "Software Engineer Intern"
-  company = "Tech For Good Inc"
-  company_url = "https://techforgoodinc.org/"
-  location = "Massachusetts, United States"
-  date_start = "2020-06-01"
-  date_end = ""
-  description = """
-  * Currently working on cloud orchestration project, developing micro-services using **Java Spring** framework.
-  """
 
 [[experience]]
   title = "Research Assistant"
