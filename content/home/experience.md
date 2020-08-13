@@ -19,11 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Incoming Software Engineer Intern"
+  title = "Software Engineer Intern"
   company = "Alibaba Group"
   company_url = "https://www.alibabagroup.com/en/global/home"
   location = "Hangzhou, China"
-  date_start = "2020-09-01"
+  date_start = "2020-08-10"
   date_end = ""
   description = """
   * Will join the Java R&D team
@@ -47,11 +47,12 @@ date_format = "Jan 2006"
   company_url = "https://aics.asus.com/"
   location = "Taipei, Taiwan"
   date_start = "2020-05-25"
-  date_end = ""
+  date_end = "2020-08-01"
   description = """
-  * Currently working on solving the **Python Flask** multi-processing deadlock problem when handling with GPU
-  * Currently working on enhancing the GPU utilization of the AI application on **Kubernetes**
-  * Deployed the **Python flask** application on **Kubernetes** using munikube
+  * Worked on enhancing the GPU utilization of the AI application on **Azure Kubernetes**
+  * Dockerized and deployed AI applications on **Azure Kubernetes**
+  * Implemented Azure Kubernetes GPU nodes auto-scaling which is currently running on AICS and saving 70% of AKS cost
+  * Developed a python Flask website using **Celery** as a message queue, **Redis** as the database, then deployed on AKS
   """
 
 [[experience]]
