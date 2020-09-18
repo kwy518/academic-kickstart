@@ -29,7 +29,7 @@ education:
   courses:
   - course: MS in Computer Engineering
     institution: New York University
-    year: 2021(expected)
+    year: 2022(expected)
   - course: BS in Physics
     institution: National Taiwan University
     year: 2018
@@ -65,10 +65,12 @@ user_groups:
 - Visitors
 ---
 
-Hi there! I'm Kuan Wei Yu, a software engineer who is currently pursuing a Master's degree in Computer Engineering at New York University. I earned my Bachelor's degree in Physics from National Taiwan University in 2018.
+Hi there! I'm Kuan Wei Yu. I am currently a Master's student in Computer Engineering at New York University. I earned my Bachelor's degree in Physics from National Taiwan University in 2018.
 
-Currently, I am interning at Alibaba Lingsoulton(Retails) Java R&D team as a Software Engineer Intern. Previously, I was working at [ASUS Intelligent Cloud Services](https://aics.asus.com/), developing the Kubernetes cloud deployment project. I was also a Software Engineer Intern  at NYU IT at 2020. At NYU IT, I developed several Business Intelligent applications, such as ETL processing, database maintaining, web development, etc. 
+This Fall, I will join [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) as a Research Software Developement Engineer Intern. I will help the team with the cloud deployment project using Kubernetes. 
 
-I am actively looking for Full-Time Software Engineer positions, if you have any opportunity, feel free to contact me through my [Email](mailto:kwy232@nyu.edu) or [LinkedIn](https://www.linkedin.com/in/kuanweiyu/). 
+I am currently working at Alibaba as a Java R&D Intern. Previously, I worked at [ASUS Intelligent Cloud Services](https://aics.asus.com/), developing the Kubernetes cloud deployment project.
+
+I am actively looking for 2021 Summer Software Engineer positions, if you have any opportunity, feel free to contact me through my [Email](mailto:kwy232@nyu.edu) or [LinkedIn](https://www.linkedin.com/in/kuanweiyu/). 
 
 Thanks for stopping by!
