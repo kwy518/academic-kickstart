@@ -45,9 +45,9 @@ subtitle = "Languages/Cloud"
   description = "" 
 
 [[feature]]
-  icon = "github"
-  icon_pack = "fab"
-  name = "Github"
+  icon = "k8s-icon"
+  icon_pack = "custom"
+  name = "Kubernetes"
   description = "" 
 
 # Uncomment to use emoji icons.

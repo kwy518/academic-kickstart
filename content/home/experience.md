@@ -19,14 +19,29 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Research Software Engineer Intern"
+  company = "Microsoft Research Asia"
+  company_url = "https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/"
+  location = "Beijing, China"
+  date_start = "2020-10-13"
+  date_end = ""
+  description = """
+  Will join ARD Incubation team
+  """
+
+[[experience]]
   title = "Software Engineer Intern"
   company = "Alibaba Group"
   company_url = "https://www.alibabagroup.com/en/global/home"
   location = "Hangzhou, China"
   date_start = "2020-08-10"
-  date_end = ""
+  date_end = "2020-10-09"
   description = """
-  * Will join the Java R&D team
+  **Got the 2021 return offer**
+  * Currently, refactoring the back-end code of the e-shopping website using **Java Spring MVC** framework and developing 5+ novel features
+  * Built a listener to subscribe and consume the asynchronous tasks using **message queue**, implemented real-time alarm services using DingTalk Chatbot APIs to process the punishment algorithms when users violate our policies
+  * Implemented High-speed Service (**RPC framework**) configuration to enhance the efficiency on developing the distributed applications 
+
   """
 [[experience]]
   title = "Software Engineer Intern"
@@ -49,10 +64,10 @@ date_format = "Jan 2006"
   date_start = "2020-05-25"
   date_end = "2020-08-01"
   description = """
-  * Worked on enhancing the GPU utilization of the AI application on **Azure Kubernetes**
-  * Dockerized and deployed AI applications on **Azure Kubernetes**
-  * Implemented Azure Kubernetes GPU nodes auto-scaling which is currently running on AICS and saving 70% of AKS cost
-  * Developed a python Flask website using **Celery** as a message queue, **Redis** as the database, then deployed on AKS
+  * Dockerized and deployed AI applications to **Azure Kubernetes**, implemented an **Azure DevOps** pipeline to create a volume with Azure Files share in AKS which then speed up on loading AI model and thus saved 50% of the deployment time
+  * Designed and developed an RESTful API of **Azure Kubernetes** GPU nodes auto-scaling; implemented by **Flask**, Celery, Redis and AKS Python SDK; It is running on medical image processing project which serves hundreds of users and saving 60% of the cost of AKS cluster
+  * Applied **tensorflow serving** to achieve task batching on the training part of the AI application and thus decreased 5% of the process time
+
   """
 
 [[experience]]
@@ -67,20 +82,6 @@ date_format = "Jan 2006"
   * Built the simulation environments on Geant4 (C++) and simulated the penetration of cosmic rays by the observational data
   * Plotted the data collected by simulation, analyzed the results, and calculated the distribution of particles by **Python**
   * Implemented a novel algorithm and improved on the simulation process, thus reduced 33% of running time, improved 20% of accuracy on recording simulation results and distinguished the repeatedly recorded data
-  """
-
-[[experience]]
-  title = "Student Research Intern"
-  company = "Institute of Astrophysics, Academia Sinica"
-  company_url = ""
-  location = "Taipei, Taiwan"
-  date_start = "2016-01-01"
-  date_end = "2016-03-15"
-  description = """
-  Topic: Modeling the interaction between Hot-Jupiter and thier host stars
-  * Implemented stellar irradiation, core mass, extra internal heating to a planet, and simulated the inner structure and the planetary radius of hot-Jupiters in MESA(C) code.
-  * Analyzed the results with linear/non-linear regression method by Python. 
-
   """
 
 +++
